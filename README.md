@@ -6,6 +6,13 @@
 https://cdn.jsdelivr.net/gh/2725283312/cglist@main/<字段>/<文件名>
 ```
 
+## BBY/ — 界面素材（身体状态/角色面板用）
+
+`BBY/images/common/*`（step/pussy/子宫/孕/svg/icon）、`BBY/images/rina/{bwh,portrait,part/step-*}.webp`、`BBY/fonts/NaikaiFont-SemiBold.woff2`。
+代码里 `资源根 = https://cdn.jsdelivr.net/gh/2725283312/cglist@main/BBY`，路径与参考站同名。
+
+## CG 目录
+
 目录与 MVU `镜头.*` 五个字段一一对应，文件名即变量值（纯中文，含扩展名）。中文路径需 URL 编码，前端用 `encodeURI` 拼接。
 
 ## 主画面（88）
